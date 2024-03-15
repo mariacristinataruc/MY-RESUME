@@ -1,0 +1,186 @@
+body {
+    background: #739072;
+    display:flex;
+    justify-content:center ;
+    align-items: center;
+    margin: 50px;
+    max-width: auto;
+
+}
+
+#container {
+    position:relative;
+    width:60%;
+    max-width:700px;
+    min-height: 80px;
+    box-shadow: 0 35px 55px (0,0,0,0,1);
+    
+}
+
+#d2 h1{
+    text-align: center;
+    text-indent: 0;
+}
+
+
+#d1 {
+    position:relative;
+    text-indent: 8px;
+    background-color:#5f6f52;
+    color: white;
+    width: 30%;
+    float:left;
+    height:900px;
+}
+
+#d1 #img{
+    position:relative;
+    width:  120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-top: 10%;
+    
+
+}
+
+#contactinfo{
+    font-size: 95%;
+}
+#phone{
+    font-weight: bold;
+}
+#email{
+    font-weight: bold;
+}
+#address{
+    font-weight: bold;
+}
+
+#personinfo{
+    font-size: 90%;
+}
+#bdate{
+    font-weight: bold;
+
+}
+#status{
+    font-weight: bold;
+}
+#citizen{
+    font-weight: bold;
+}
+
+#skills{
+    font-size: 95%;
+}
+#listS{
+    font-size: 93%;
+    text-indent: 0;
+}
+
+#lang{
+    font-size: 95%;
+}
+#listE{
+    font-size: 93%;
+    text-indent: 0;
+}
+
+
+
+
+dt{
+    font-size: 85%;
+}
+
+li{
+    font-size: 90%;
+}
+
+#d2 dt{
+    font-size: 90%;
+
+}
+
+#d2 dd{
+    text-align: left;
+}
+
+#img {
+
+    width:60%;
+    height:60%;
+    margin-left: 20%;
+
+
+}
+
+#d2{
+    position:relative;
+    text-indent: 4px;
+    background-color:#C7C8CC;
+    color: black;
+    width: 70%;
+
+    float:right;
+ 
+    height: 900px;
+  
+    
+}
+
+#d2 #name{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    padding-bottom:20px;
+    
+}
+
+#paragraph {
+    font-size:80%;
+    letter-spacing: 1px;
+}
+#profile{
+    padding:10px;
+}
+
+#d2 h1{
+
+    color:black;
+    font-size: 275%;
+    margin-top: 20px;
+    text-align:center;
+    font-weight:600;
+    line-height: 1.3em;
+}
+
+#ed h3{
+    font-size: 70%;
+    font-weight:bold;
+}
+
+#education {
+    font-size:100%;
+}
+
+#semtrain h3{
+    font-size: 70%;
+    font-weight:bold;
+}
+#seminartrain #semlist dd{
+    font-size:100%;
+    text-indent: 0;
+}
+#reference{ 
+    font-size:100%;
+    text-indent: 10px;
+}
+#ref h3 {
+    font-size: 70%;
+    margin-bottom: 30%;
+}
+
+
+
