@@ -3,17 +3,20 @@ body {
     display:flex;
     justify-content:center ;
     align-items: center;
-    margin: 10px;
+    margin: 10%;
     max-width: auto;
     max-height: auto;
 }
 
 #container {
     position:relative;
-    width:70%;
+    width:auto;
+    height: auto;
     max-width:700px;
     min-height: 80px;
     box-shadow: 0 35px 55px (0,0,0,0,1);
+
+}
 
 #d2 h1{
     text-align: center;
